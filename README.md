@@ -64,7 +64,7 @@ To get started with ChatSphere, follow these steps:
 1. Fork and clone the repository from GitHub:
 
    ```bash
-   git clone https://github.com/arafath-3172/chat_sphere.git
+   git clone https://github.com/Giri-14/Chatsphere.git
    ```
 
 ## Install the required packages for the backend by running the following command in the root directory:
@@ -233,6 +233,6 @@ contributions are welcome! To contribute to ChatSphere, follow these steps:
 
 ## Contributors 🤝
 
-@ArafathQureshi
+@Amgothu Yadagiri
 
 > Happy chatting with ChatSphere! If you have any questions or need further assistance, feel free to reach out.
